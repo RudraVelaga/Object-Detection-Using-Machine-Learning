@@ -2,7 +2,7 @@
 
 #### Introduction:
 
-Welcome to the Git repository for my Master's Project.This Master's Project Git repository in Computer Vision and Machine Learning aims to share my research and development efforts in this exciting area of study. This repository serves as a centralized hub for all the code, documentation, and resources related to my research and development work in this exciting domain. The purpose of this introduction is to provide an overview of the project and guide you through the contents and structure of this repository.
+Welcome to the Git repository for my Project.This Project Git repository in Computer Vision and Machine Learning aims to share my research and development efforts in this exciting area of study. This repository serves as a centralized hub for all the code, documentation, and resources related to my research and development work in this exciting domain. The purpose of this introduction is to provide an overview of the project and guide you through the contents and structure of this repository.
 
 #### Project Overview:
 
