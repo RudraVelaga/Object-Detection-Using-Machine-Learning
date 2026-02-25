@@ -6,7 +6,7 @@ Welcome to the Git repository for my Master's Project.This Master's Project Git 
 
 #### Project Overview:
 
-My Master's Project focuses on real-time object detection and number plate recognition. The primary objective is to develop an efficient and accurate system that can detect various objects in real-time video streams and extract number plates from vehicles with high precision. By combining computer vision algorithms and machine learning techniques, this project aims to address the challenges of real-time object detection and number plate recognition in practical scenarios.
+My Project focuses on real-time object detection and number plate recognition. The primary objective is to develop an efficient and accurate system that can detect various objects in real-time video streams and extract number plates from vehicles with high precision. By combining computer vision algorithms and machine learning techniques, this project aims to address the challenges of real-time object detection and number plate recognition in practical scenarios.
 
 ### Output :
 
